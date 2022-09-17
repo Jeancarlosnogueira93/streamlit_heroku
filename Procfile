@@ -1,1 +1,1 @@
-web: python DashBoard_job.py runserver 0.0.0.0:5000
+web: python DashBoard_glicose.py runserver 0.0.0.0:5000
